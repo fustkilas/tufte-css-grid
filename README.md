@@ -1,5 +1,25 @@
-Tufte CSS
+Tufte CSS-Grid
 =========
+
+Tufte-Css rewritten in CSS-Grid.
+
+========
+
+While the long-term goal is feature-parity with tufte-css, the first few releases will target a subset (to be fully defined).
+
+## Roadmap
+
+- css-grid layout
+- responsiveness implemente din css-grid
+- port to stylus
+- update documentation to reflect stylus being a superset of *all* css pre-processor styles
+- jade/pug templates
+- new workflows (npm only, brunch, etc)
+- static site generator theme for hugo 
+- brunch skeleton
+
+=========
+
 Edward Tufte uses a distinctive style in his handouts: simple, with well-set
 typography, extensive sidenotes, and tight integration of graphics and
 charts. `tufte-css` brings that style to HTML documents.
